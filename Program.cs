@@ -16,17 +16,9 @@ namespace TestAsync
         {
             await Task.Run(() => {
                 Method3();
-            }) 
+            }) ;
 
-            // Task.Run(() =>
-            // {
-            //     for (int i = 0; i < 10; i++)
-            //     {
-            //         Console.WriteLine(" Method 1");
-            //         Method2();
-                    
-            //     }
-            // });
+            
         }
 
       static  async Task Method2()

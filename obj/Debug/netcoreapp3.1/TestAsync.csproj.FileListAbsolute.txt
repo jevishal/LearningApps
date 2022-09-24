@@ -1,0 +1,14 @@
+D:\Repo\TestAsync\obj\Debug\netcoreapp3.1\TestAsync.csproj.AssemblyReference.cache
+D:\Repo\TestAsync\obj\Debug\netcoreapp3.1\TestAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\TestAsync\obj\Debug\netcoreapp3.1\TestAsync.AssemblyInfoInputs.cache
+D:\Repo\TestAsync\obj\Debug\netcoreapp3.1\TestAsync.AssemblyInfo.cs
+D:\Repo\TestAsync\obj\Debug\netcoreapp3.1\TestAsync.csproj.CoreCompileInputs.cache
+D:\Repo\TestAsync\bin\Debug\netcoreapp3.1\TestAsync.exe
+D:\Repo\TestAsync\bin\Debug\netcoreapp3.1\TestAsync.deps.json
+D:\Repo\TestAsync\bin\Debug\netcoreapp3.1\TestAsync.runtimeconfig.json
+D:\Repo\TestAsync\bin\Debug\netcoreapp3.1\TestAsync.runtimeconfig.dev.json
+D:\Repo\TestAsync\bin\Debug\netcoreapp3.1\TestAsync.dll
+D:\Repo\TestAsync\bin\Debug\netcoreapp3.1\TestAsync.pdb
+D:\Repo\TestAsync\obj\Debug\netcoreapp3.1\TestAsync.dll
+D:\Repo\TestAsync\obj\Debug\netcoreapp3.1\TestAsync.pdb
+D:\Repo\TestAsync\obj\Debug\netcoreapp3.1\TestAsync.genruntimeconfig.cache
